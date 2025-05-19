@@ -45,3 +45,22 @@ For instance:
 * Detect the most cohesive groups of terrorists;
   * Detect the most influencial terrorist within each group
 * Does these netowrks tents to show an assortative or disassortative trend? Can you think about a reason for that?
+
+### Task 3 
+Task 3 can be found in its corresponding folder, which contains the notebook along with all related files, including the accompanying report.
+
+#### Excercise 
+Take the TRUMP tweets and create your analytics:
+
+When Trump wishes the Olympic team good luck, he’s tweeting from his iPhone.
+When he’s insulting a rival, he’s usually tweeting from an Android.
+Make your analytics!
+
+Is this an artifact showing which tweets are Trump’s own and which are by some handler? Any other insights?
+
+#### Goal 
+Control for instance:
+
+Number of tweets from Android/iPhone
+Most frequent positive and words
+Sentiment dynamics
