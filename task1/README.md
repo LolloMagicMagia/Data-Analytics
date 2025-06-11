@@ -1,5 +1,4 @@
 ### Task 1
-Task 1 can be found in its corresponding folder, which contains the notebook along with all related files, including the accompanying report.
 
 #### Excercise 
 The Enron email (Klimt & Yang, 2004) network is a social network constructed from email communication in a large corporation.
