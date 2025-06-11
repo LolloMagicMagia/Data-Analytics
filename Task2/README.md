@@ -1,5 +1,4 @@
 ### Task 2 
-Task 2 can be found in its corresponding folder, which contains the notebook along with all related files, including the accompanying report.
 
 #### Excercise 
 Now create your analytics and derive your conclusions on the **“Madrid train bombing network”** https://en.wikipedia.org/wiki/2004_Madrid_train_bombings
