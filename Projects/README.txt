@@ -25,3 +25,7 @@ rating: valutazione (in stelle, da 1 a 5) della recensione
 helpful: numero di persone che hanno trovato utile la recensione
 verified: indica se l'acquisto è stato verificato o meno
 body: contenuto della recensione
+
+
+The dataset can be downloaded using this Google Drive link. Before running the code, please ensure that you update the file path to match the location where you saved the dataset.
+https://drive.google.com/drive/folders/1mSJ_PEYcXXutzzgy_x3LYqDp02N3Hjin?usp=drive_link
