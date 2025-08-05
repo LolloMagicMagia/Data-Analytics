@@ -1,3 +1,5 @@
+SENTIMENT ANALYSIS AND NETWORK ANALYSIS ON AMAZON ITALY PRODUCTS.
+
 PRODUCTS:
 _id: identificatore univoco del prodotto
 title: titolo del prodotto
@@ -29,3 +31,4 @@ body: contenuto della recensione
 
 The dataset can be downloaded using this Google Drive link. Before running the code, please ensure that you update the file path to match the location where you saved the dataset.
 https://drive.google.com/drive/folders/1mSJ_PEYcXXutzzgy_x3LYqDp02N3Hjin?usp=drive_link
+
