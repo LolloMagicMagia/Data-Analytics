@@ -1,5 +1,5 @@
 # Data-Analytics
-Tasks to do for the data analytics exam. what I saw in this course:
+Tasks and projects for the data analytics course:
 
 ### TASK 1
 In this task, we analyzed the structure of interconnected networks by examining their attributes and relationships using the igraph library. Our objective was to explore various network models applicable to different contexts, evaluating their structure and behavior. As part of the analysis, we employed multiple centrality measures—such as betweenness, eigenvector centrality, PageRank, and degree centrality—to identify the main nodes within each network. By doing so, we were able to make hypotheses regarding the reasons why certain nodes exhibit high centrality values, thereby gaining insights into their significance and role within the overall network.
@@ -20,3 +20,7 @@ In the second part, we will apply BERT to a sentiment analysis task, making use 
 In the second file, we will demonstrate how to apply model explainability techniques—such as SHAP, gradient-based, and value-based methods—in order to understand how a model makes decisions. These tools allow us to interpret the model's reasoning process, identify possible errors, and gain insights into its internal logic and decision boundaries.
 
 Following this explainability section, we will explore two additional applications of the BERT model: machine translation and question answering. Although these implementations will be carried out in a simplified manner, they serve as practical examples of how powerful and versatile Transformer-based models like BERT can be across a variety of natural language processing tasks.
+
+
+### Sentiment Analysis and Network Analysis on Amazon Italy products
+More info in the folder Projects.
